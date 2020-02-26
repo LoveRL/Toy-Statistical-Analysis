@@ -1,5 +1,5 @@
 # Toy-Statistical-Analysis
-Providing a simple traditional statistical analysis using **titanic data**
+Providing a simple traditional statistical analysis using **_titanic data_**
 
 Here are some functions implemented in pyhon 3.6.7
 
